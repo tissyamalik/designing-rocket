@@ -1,0 +1,2 @@
+Name,Configuration,Velocity off rod (m/s),Apogee (m),Velocity at deployment (m/s),Optimum delay (s),Max. velocity (m/s),Max. acceleration (m/s²),Time to apogee (s),Flight time (s),Ground hit velocity (m/s),Simulation Warnings
+Simulation 1,[F15-0],9.121,359.806,NaN,6.055,81.265,53.284,9.455,19.304,60.015,No recovery device defined in the simulation. 
